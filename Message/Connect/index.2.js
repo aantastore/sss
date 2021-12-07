@@ -52,7 +52,7 @@ module.exports.userbot = userbot = {
    setting: {
    butmag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQObSutCYk40N8IUplw7X65jUTEg7yCs4m49z_4ZXJu1EEbe1tESw5pVPX_&s=10",
    packname: "Stream-BOT",
-   author: "Arifi Razzaq",
+   author: "xynta ganzz",
    prefix: ["/"],
    bio1: "Pejuang Sholawat", 
    bio2: "Road To 30 Juz", 
