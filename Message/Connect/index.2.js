@@ -29,7 +29,7 @@ global.APIKeys = {
 module.exports = { APIs, APIKeys } 
 
 module.exports.userbot = userbot = {
- owner:  [ "6281261324817", "436505555868686", "6285934360746", "62895622934562" ],
+ owner:  [ "6281262411188", "6281262411188", "6281262411188", "6281262411188" ],
    mess: {
    wait: "tunggu sedang di proses...",
    api: "Maaf terjadi kesalahan", 
